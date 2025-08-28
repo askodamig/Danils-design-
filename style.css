@@ -19,3 +19,8 @@ h1{
 .header-left{
     margin-left: 2%;
 }
+
+.header-right{
+    margin-right: 3%;
+    justify-content: space-between;
+}
