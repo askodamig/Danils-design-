@@ -32,15 +32,22 @@ h1{
 }
 
 .torso{
-    display: flex;
+    display:flex ;
+    width:100%;
         justify-content: space-between;
+    font-style: arial, ;
 }
 .headerbl{
     width: 50%;
     background-color: black;
-    img {
-        width:50%;
-        height:50%;
+}
+img {
+    size: 25%;
         border-radius: 50%;
     }
+
+.headerbr {
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
